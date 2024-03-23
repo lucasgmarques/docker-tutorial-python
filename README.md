@@ -1,4 +1,4 @@
-.# Flask PostgreSQL Example
+# Flask PostgreSQL Example
 
 This is a simple Flask application that demonstrates how to connect to a PostgreSQL database to perform basic CRUD operations. The application provides endpoints to fetch widgets from the database and initialize the database schema.
 
@@ -13,19 +13,16 @@ This is a simple Flask application that demonstrates how to connect to a Postgre
 
 1.  Clone the repository:
     
-    bashCopy code
     
     `git clone https://github.com/your_username/flask-postgresql-example.git` 
     
 2.  Navigate to the project directory:
     
-    bashCopy code
     
     `cd flask-postgresql-example` 
     
 3.  Install dependencies using pip:
     
-    bashCopy code
     
     `pip install -r requirements.txt` 
     
